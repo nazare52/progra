@@ -1,3 +1,4 @@
+# SERGIO ANDRADE NIEVES
 x = int(input("low: "))
 y = int(input("high: "))
 z = 0

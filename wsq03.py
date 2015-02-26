@@ -1,3 +1,4 @@
+# SERGIO ANDRADE NIEVES
 print ("fun with numbers")
 x = int(input("enter an integer: "))
 y = int(input("enter another integer: "))
